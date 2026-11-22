@@ -1,0 +1,37 @@
+# source
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/boundary/select.go
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/boundary/select_test.go
+
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/export/export.go
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/export/export_test.go
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/export/preview.go
+
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/gaps/contour.go
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/gaps/extract.go
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/gaps/gaps_test.go
+
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/geo/geo.go
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/geo/geo_test.go
+
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/landmask/landmask.go
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/landmask/landmask_test.go
+
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/osmtags/coverage.go
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/osmtags/coverage_test.go
+
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/pbf/reader.go
+
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/raster/bitset.go
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/raster/bitset_test.go
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/raster/scanline.go
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/internal/raster/scanline_test.go
+
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/main.go
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/main_test.go
+
+# build
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/build-binaries.sh
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/go.mod
+
+# docs
+/Users/klaustockloth/go/src/klaus/osm-coverage-gaps/README.md
